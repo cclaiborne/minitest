@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Minitest::Application.load_tasks
+
